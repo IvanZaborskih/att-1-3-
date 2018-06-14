@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\obj\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\BosenkoA\Graph\SimpleGraph\obj\Debug\SimpleGraph.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\bin\Debug\Task_2_(2 semestor).exe.config
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\bin\Debug\Task_2_(2 semestor).exe
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\bin\Debug\Task_2_(2 semestor).pdb
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2_(2 semestor).csprojResolveAssemblyReference.cache
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2__2_semestor_.Form2.resources
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2_(2 semestor).csproj.GenerateResource.Cache
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2_(2 semestor).csproj.CoreCompileInputs.cache
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2_(2 semestor).exe
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\obj\Debug\Task_2_(2 semestor).pdb
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\bin\Debug\Business logic(3).dll
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Task_2_(2 semestor)\bin\Debug\Business logic(3).pdb

@@ -1,0 +1,12 @@
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\bin\Debug\LogicLibrary.dll
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\bin\Debug\LogicLibrary.pdb
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.csprojResolveAssemblyReference.cache
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.csproj.CoreCompileInputs.cache
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.dll
+c:\users\1\source\repos\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.pdb
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\bin\Debug\LogicLibrary.dll
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\bin\Debug\LogicLibrary.pdb
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.dll
+C:\Users\Alexander\Desktop\Аттестация2_Босенко\LogicLibrary\obj\Debug\LogicLibrary.pdb

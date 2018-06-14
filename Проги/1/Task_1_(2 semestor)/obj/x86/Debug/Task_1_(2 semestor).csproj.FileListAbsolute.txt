@@ -1,0 +1,7 @@
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\bin\Debug\Task_1_(2 semestor).exe
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\bin\Debug\Task_1_(2 semestor).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\obj\x86\Debug\Task_1__2_semestor_.Form1.resources
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\obj\x86\Debug\Task_1__2_semestor_.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\obj\x86\Debug\Task_1_(2 semestor).csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\obj\x86\Debug\Task_1_(2 semestor).exe
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Task_1_(2 semestor)\obj\x86\Debug\Task_1_(2 semestor).pdb

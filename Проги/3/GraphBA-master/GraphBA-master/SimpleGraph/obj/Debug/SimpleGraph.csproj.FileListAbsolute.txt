@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\obj\Debug\SimpleGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\obj\Debug\SimpleGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\obj\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\SimpleGraph\obj\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\obj\Debug\SimpleGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\obj\Debug\SimpleGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\obj\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\SimpleGraph\obj\Debug\SimpleGraph.pdb

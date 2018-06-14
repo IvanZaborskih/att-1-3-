@@ -1,0 +1,32 @@
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\1 task\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Алексей\Desktop\Программирование.Практика\C#\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).csprojResolveAssemblyReference.cache
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).csproj.CoreCompileInputs.cache
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Dmiti\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Алексей\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Алексей\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Алексей\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Алексей\Downloads\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).dll
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\bin\Debug\Business logic(3).pdb
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).csprojResolveAssemblyReference.cache
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).csproj.CoreCompileInputs.cache
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).dll
+C:\Users\Dmiti\source\repos\Task_1_(2 semestor)\Business logic(3)\Business logic(3)\obj\Debug\Business logic(3).pdb
